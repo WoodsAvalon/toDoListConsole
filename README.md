@@ -13,4 +13,4 @@ toDoListConsole is a simple Java based to do list program using a console interf
 4. At the menu, you can close or exit the program by typing e or E and pressing enter or return. When closing, the program will save the current task list into a plain text file. The next time the program is run, it will read the plain text file and automaticlly load the task list into the program.
 
 ## What the app looks like
-https://github.com/WoodsAvalon/toDoListConsole/blob/main/toDoListConsole/toDoListConsole.jpg
+![alt text](https://github.com/WoodsAvalon/toDoListConsole/blob/main/toDoListConsole/toDoListConsole.jpg)
