@@ -4,7 +4,7 @@ toDoListConsole is a simple Java based to do list program using a console interf
 ## How to run the program
 1. Either fork or download the program and open the folder in the cli
 2. Install Java, the version used in this program is 17.0.3.
-3. Run the program using the command java -jar toDoList.jar in the project folder.
+3. Run the program using the command java toDoListConsole.toDoListConsole in the bin folder.
 
 ## How to use the program
 1. Once the program is running, you can add a new task by either typing a or A and pressing enter or return. It will then ask for the task text, once entered, the menu is shown with the new task and start time.
